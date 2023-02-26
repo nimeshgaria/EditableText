@@ -1,0 +1,18 @@
+.row{
+    display: flex;
+    direction: row;
+    border: 1px solid #000;
+}
+
+.rowItem{
+    width: 100px;
+    height: 50px;
+    border-left: 1px solid #000 ;
+}
+
+.row2{
+    display: flex;
+    direction: row;
+    border: 1px solid #000;
+    margin-top: 10px;
+}
